@@ -1,0 +1,26 @@
+{
+  "manifestVersion": 1,
+  "generation": 1,
+  "publishedAtUtc": "2026-09-28T00:00:00Z",
+  "validUntilUtc": "2026-10-28T00:00:00Z",
+  "entries": [
+    {
+      "platform": "android",
+      "contractVersion": 1,
+      "enabled": true,
+      "minAppBuild": 100,
+      "revision": 1,
+      "tag": "data-c1-r1",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "platform": "ios",
+      "contractVersion": 1,
+      "enabled": true,
+      "minAppBuild": 50,
+      "revision": 1,
+      "tag": "data-c1-r1",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ]
+}
