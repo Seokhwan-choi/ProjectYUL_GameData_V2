@@ -8,7 +8,7 @@
       "platform": "android",
       "contractVersion": 1,
       "enabled": true,
-      "minAppBuild": 30,
+      "minAppBuild": 22,
       "revision": 7,
       "tag": "data-c1-r7",
       "sha256": "775dfeba325bc0db4ee82ed73a26fa81f36e819938e001dd3d61a758e276d74c"
