@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
-  "generation": 18,
-  "publishedAtUtc": "2026-11-06T10:11:16Z",
+  "generation": 19,
+  "publishedAtUtc": "2026-11-08T08:59:14Z",
   "validUntilUtc": "9999-12-31T23:59:59Z",
   "entries": [
     {
@@ -21,6 +21,24 @@
       "revision": 18,
       "tag": "data-c1-r18",
       "sha256": "09719816e3081d68dbf6ebf4803486584b769aedf16d57cc7041b63bbf0d6637"
+    },
+    {
+      "platform": "android",
+      "contractVersion": 2,
+      "enabled": true,
+      "minAppBuild": 35,
+      "revision": 1,
+      "tag": "data-c2-r1",
+      "sha256": "8dbcb27e4f5c351c6f8e61c4c23e8d3c371f32ab0f4fd1e2a6a3e92b63459e29"
+    },
+    {
+      "platform": "ios",
+      "contractVersion": 2,
+      "enabled": true,
+      "minAppBuild": 14,
+      "revision": 1,
+      "tag": "data-c2-r1",
+      "sha256": "8dbcb27e4f5c351c6f8e61c4c23e8d3c371f32ab0f4fd1e2a6a3e92b63459e29"
     }
   ]
 }
