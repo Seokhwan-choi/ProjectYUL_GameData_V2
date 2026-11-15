@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
-  "generation": 36,
-  "publishedAtUtc": "2026-11-15T14:44:11Z",
+  "generation": 37,
+  "publishedAtUtc": "2026-11-15T14:48:22Z",
   "validUntilUtc": "9999-12-31T23:59:59Z",
   "entries": [
     {
@@ -24,39 +24,39 @@
     },
     {
       "platform": "android",
-      "contractVersion": 3,
-      "enabled": true,
-      "minAppBuild": 39,
-      "revision": 1,
-      "tag": "data-c3-r1",
-      "sha256": "c29e6cedf3f52acc5c59c02d58b39bc764221d9b2e69e2cc6408cad7ea2dbe8b"
-    },
-    {
-      "platform": "ios",
-      "contractVersion": 3,
-      "enabled": true,
-      "minAppBuild": 14,
-      "revision": 1,
-      "tag": "data-c3-r1",
-      "sha256": "c29e6cedf3f52acc5c59c02d58b39bc764221d9b2e69e2cc6408cad7ea2dbe8b"
-    },
-    {
-      "platform": "android",
       "contractVersion": 1,
       "enabled": true,
       "minAppBuild": 34,
-      "revision": 20,
-      "tag": "data-c1-r20",
-      "sha256": "b85b18393cdccdf7a800806fe8dd8a36c2a8019e680ae1ce3589ddcb6777d4db"
+      "revision": 19,
+      "tag": "data-c1-r19",
+      "sha256": "44e23703cd89b523527dce9db1ec1001cd6c917594d052f884ad88a4925da15d"
     },
     {
       "platform": "ios",
       "contractVersion": 1,
       "enabled": true,
       "minAppBuild": 16,
-      "revision": 20,
-      "tag": "data-c1-r20",
-      "sha256": "b85b18393cdccdf7a800806fe8dd8a36c2a8019e680ae1ce3589ddcb6777d4db"
+      "revision": 19,
+      "tag": "data-c1-r19",
+      "sha256": "44e23703cd89b523527dce9db1ec1001cd6c917594d052f884ad88a4925da15d"
+    },
+    {
+      "platform": "android",
+      "contractVersion": 3,
+      "enabled": true,
+      "minAppBuild": 39,
+      "revision": 2,
+      "tag": "data-c3-r2",
+      "sha256": "eabe92f524ad62a240d68600098c79f37c34ab4fc210f6da955ffd1c0fcac3b1"
+    },
+    {
+      "platform": "ios",
+      "contractVersion": 3,
+      "enabled": true,
+      "minAppBuild": 14,
+      "revision": 2,
+      "tag": "data-c3-r2",
+      "sha256": "eabe92f524ad62a240d68600098c79f37c34ab4fc210f6da955ffd1c0fcac3b1"
     }
   ]
 }
