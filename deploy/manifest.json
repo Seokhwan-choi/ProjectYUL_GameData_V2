@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
-  "generation": 55,
-  "publishedAtUtc": "2026-11-27T10:25:28Z",
+  "generation": 56,
+  "publishedAtUtc": "2026-11-27T14:30:19Z",
   "validUntilUtc": "9999-12-31T23:59:59Z",
   "entries": [
     {
@@ -81,9 +81,9 @@
       "contractVersion": 5,
       "enabled": true,
       "minAppBuild": 46,
-      "revision": 4,
-      "tag": "data-c5-r4",
-      "sha256": "8224a5256fc447dc2a0f67a76ad21c7084c091f2978e0780defe2fc218f41d9e"
+      "revision": 7,
+      "tag": "data-c5-r7",
+      "sha256": "0116e388b6f333197f02b219935893ff1b6ecb046acee87064d48e11e9e84a30"
     },
     {
       "platform": "ios",
