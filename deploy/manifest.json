@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
-  "generation": 50,
-  "publishedAtUtc": "2026-11-27T07:17:38Z",
+  "generation": 51,
+  "publishedAtUtc": "2026-11-27T07:39:25Z",
   "validUntilUtc": "9999-12-31T23:59:59Z",
   "entries": [
     {
@@ -81,18 +81,18 @@
       "contractVersion": 5,
       "enabled": true,
       "minAppBuild": 46,
-      "revision": 1,
-      "tag": "data-c5-r1",
-      "sha256": "72a7ccdd1e87cef65624fedc8850ecf61b4979957188bf0773ad7f2fa3340082"
+      "revision": 2,
+      "tag": "data-c5-r2",
+      "sha256": "4cd0921357b515ca6abb0f7c5b043e48425eb41ebc7e836acce23fcc6eb933c6"
     },
     {
       "platform": "ios",
       "contractVersion": 5,
       "enabled": true,
       "minAppBuild": 17,
-      "revision": 1,
-      "tag": "data-c5-r1",
-      "sha256": "72a7ccdd1e87cef65624fedc8850ecf61b4979957188bf0773ad7f2fa3340082"
+      "revision": 2,
+      "tag": "data-c5-r2",
+      "sha256": "4cd0921357b515ca6abb0f7c5b043e48425eb41ebc7e836acce23fcc6eb933c6"
     }
   ]
 }
