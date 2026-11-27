@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
-  "generation": 53,
-  "publishedAtUtc": "2026-11-27T10:00:33Z",
+  "generation": 54,
+  "publishedAtUtc": "2026-11-27T10:04:40Z",
   "validUntilUtc": "9999-12-31T23:59:59Z",
   "entries": [
     {
@@ -90,9 +90,9 @@
       "contractVersion": 5,
       "enabled": true,
       "minAppBuild": 17,
-      "revision": 4,
-      "tag": "data-c5-r4",
-      "sha256": "8224a5256fc447dc2a0f67a76ad21c7084c091f2978e0780defe2fc218f41d9e"
+      "revision": 5,
+      "tag": "data-c5-r5",
+      "sha256": "1bda4764a61fdb1e2b526c4d9112c8807a2656680a286eb9a281eafb4da70631"
     }
   ]
 }
